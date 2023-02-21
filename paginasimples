@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina principal</title>
+</head>
+<body>
+    <h1 id="inicio">Exemplo de matéria de um Blog</h1>
+    <hr>
+    <h2>Indice</h2>
+    <ul>
+        <li><a href="#surgimento">Surgimento de internet</a></li>
+        <li><a href="#como-funciona">Como funciona o HTML</a></li>
+        <li><a href="#tags">O que são Tags</a></li>
+    </ul>
+    <h2 id="Surgimento">Surgimento da internet</h2>
+    <p>A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história. Essa rede pertencia ao Departamento de Defesa norte-americano.</p>
+    <h2 id="como-funcionna">Como funciona o HTML</h2>
+    <p>Como funciona
+        O HTML é uma linguagem de marcação. Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria. O HTML tem códigos para criar paginas na web. Estes códigos que definem o tipo de letra, qual o tamanho, cor, espaçamento, e vários outros aspectos do site.</p>
+        <h2 id="Tags">O que são tags</h2>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p>A tag HTML de conteúdo é uma marca que define o conteúdo de um documento da respectiva linguagem. Ela envolve o texto e os elementos que aparecem no documento. Tecnicamente, elas são usadas para determinar o tipo de conteúdo que será exibido na página.</p>
+</body>
+</html>
